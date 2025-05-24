@@ -30,3 +30,9 @@ jobs:
 
       - name: Set up Gradle
         uses: gradle/gradle-build-action@v2
+
+      - name: Buatin APK
+        uses: gradflow/gradflow-build-action@v2
+
+      - name: Set up Gradle
+        uses: gradle/gradle-build-action@v2
