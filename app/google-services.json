@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754906493104",
+    "project_id": "cek-roda-4e9e8",
+    "storage_bucket": "cek-roda-4e9e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754906493104:android:967c849dcffc00a1998b75",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7GcTzFQI-gK5jde18XEB2IiAJ0_mCNTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
